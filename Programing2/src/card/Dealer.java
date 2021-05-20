@@ -24,8 +24,9 @@ public class Dealer {
 		HumanPlayer p = new HumanPlayer(11);
 		d.dealTo(p);
 		Card[] h = p.showCards();
-		for ( int i = 0; i<h.length;i++ ) {
+		for ( int i = 0; i<h.length; i++ ) {
 			System.out.println(h[i].getSuit()+" "+h[i].getRank());
+			System.out.println("¤¾¤¾");
 			
 		}
 	}
