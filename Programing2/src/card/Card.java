@@ -17,9 +17,9 @@ public class Card {
 	private String suit;
 	private int rank;
 
-	/** Constructor - CardÀÇ ¹«´Ì¿Í ²ý¼ö¸¦ ¼³Á¤ 
+	/** Constructor - CardÀÇ dfdffdfdf ²ý¼ö¸¦ ¼³Á¤ 
 	 * @param s - ¹«´Ì 
-	 * @param r - ²ý¼ö  */
+	 * @param r - ²ýdfdfdf¼ö  */
 	public Card(String s, int r) { 
 		suit = s;
 		rank = r;
